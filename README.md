@@ -1,6 +1,6 @@
 # Hi, I'm Ahmed Bin Shehab 👋
 
-**Cloud & DevOps Engineer | AWS Community Builder – Abu Dhabi**
+**Cloud & Infrastructure Operations | DevOps Automation | AWS Community Builder – Abu Dhabi**
 
 I design, build, and operate **secure, automated, and scalable cloud-native systems** with a strong focus on reliability, cost efficiency, and real-world operations.
 
